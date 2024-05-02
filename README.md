@@ -6,10 +6,6 @@ This project focuses on the development of a predictive model for heart disease 
 
 To create a robust predictive model that accurately identifies patients at risk of heart disease, using Python and its libraries (NumPy, pandas, Matplotlib, and scikit-learn) for data analysis, preprocessing, feature engineering, and model training.
 
-## Competition Deadline
-
-Mar 18, 2024, 11:59 PM
-
 ## Tasks Overview
 
 - **Extract Data**: Download and load the dataset into a pandas DataFrame.
